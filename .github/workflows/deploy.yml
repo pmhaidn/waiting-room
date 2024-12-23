@@ -20,4 +20,4 @@ jobs:
       env:
         FASTLY_API_TOKEN: ${{ secrets.FASTLY_API_KEY }}
       with:
-        service_id: '3BCRKNm5R0iXXcfZzmwmn8'
+        service_id: 'HR4vbWq8VRgiKOZka4lOY7'
